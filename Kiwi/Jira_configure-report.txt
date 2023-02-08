@@ -1,0 +1,9 @@
+https://jira.kiwi.com/secure/ConfigureReport.jspa
+https://jira.kiwi.com/secure/ConfigureReport.jspa?filterid=&mapper=assignees&selectedProjectId=&reportKey=com.atlassian.jira.jira-core-reports-plugin%3Asinglelevelgroupby&atl_token=BIA2-3OXF-JELY-42DA_f3703a288adcf499e74c7b62b8cc16bbd76a3bcc_lout&Next=Next
+https://jira.kiwi.com/secure/ConfigureReport.jspa?filterid=&mapper=customfield_19111&selectedProjectId=&reportKey=com.atlassian.jira.jira-core-reports-plugin%3Asinglelevelgroupby&atl_token=BIA2-3OXF-JELY-42DA_f3703a288adcf499e74c7b62b8cc16bbd76a3bcc_lout&Next=Next
+https://jira.kiwi.com/secure/ConfigureReport.jspa?filterid=&mapper=project&selectedProjectId=&reportKey=com.atlassian.jira.jira-core-reports-plugin%3Asinglelevelgroupby&atl_token=BIA2-3OXF-JELY-42DA_f3703a288adcf499e74c7b62b8cc16bbd76a3bcc_lout&Next=Next
+https://jira.kiwi.com/secure/ConfigureReport.jspa?projectOrFilterId=project-10000&dateField=customfield_10204&periodName=daily&daysprevious=30&cumulative=true&selectedProjectId=&reportKey=com.atlassian.jira.jira-core-reports-plugin%3Atimesince-report&atl_token=BBR0-J0V0-O9YG-658J_c7ab42dc0fcc492ad2b1a8b9a756eb54ec4adbf7_lout&Next=Next
+https://jira.kiwi.com/secure/ConfigureReport.jspa?reportKey=1
+https://jira.kiwi.com/secure/ConfigureReport.jspa?reportKey=admin
+https://jira.kiwi.com/secure/ConfigureReport.jspa?reportKey=com.atlassian.jira.jira-core-reports-plugin:singlelevelgroupby
+
